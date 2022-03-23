@@ -1,1 +1,3 @@
 # NewsAppWithFlutter
+
+![](mockup.jpg)
