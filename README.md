@@ -1,4 +1,12 @@
-# NewsAppWithFlutter
+# News App
+
+## Kullanılan Teknolojiler:
+  * Mobil Uygulama:
+      - Flutter
+      
+  * Web Servis:
+      - Laravel
+
 
 ![](mockup.jpg)
 
